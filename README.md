@@ -1,6 +1,6 @@
 ## Shrathinth Venkatesh&rsquo;s website
 
-GitHub repository for Shrathinth Venkatesh's personal academic website [shrathinth.github.io/test](https://shrathinth.github.io/test) 
+GitHub repository for Shrathinth Venkatesh's personal academic website [shrathinth.github.io/test2](https://shrathinth.github.io/test2) 
 
 based on [justinbagley.org](https://justinbagley.org).
 
